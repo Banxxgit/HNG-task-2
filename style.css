@@ -63,6 +63,7 @@ body {
     overflow-x: hidden;
     font-size: 15px;
     display: flex;
+    flex-direction: column;
     flex-wrap: wrap;
     font-family: 'Poppins reg';
     margin: 0 auto;
