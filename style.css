@@ -89,6 +89,6 @@ li {
 
 @media screen and (min-width: 600px) {
     .gap {
-        width: 2em;
+        width: 20em;
     }
 }
